@@ -12,9 +12,3 @@ Part of the analysis was conducted with the help of Tableau. The link to the tab
 ## Tools and Packages
 
 The Python (3.6) code was written in the Jupyter notebook with Anaconda (.ipynb format). All packages needed to run the code are shown in the requirements.txt file. 
-
-## Running the Code
-
-1. Run the 'Data Collection and Preprocessing.ipynb' file, which creates and exports the df.pickle file.
-2. Run all the python notebooks in the 'text generation' folder (each file contains a model that inputs the df.pickle file and generates text)
-3. Run the 'Exploratory_Data_Analysis.ipynb' file
