@@ -8,6 +8,8 @@ This repository contains all the deliverables of the DATS 6501 Capstone Project.
  
 Part of the analysis was conducted with the help of Tableau. The link to the tableau notebook can be accessed with this link: https://public.tableau.com/profile/aashish2358#!/vizhome/CapstoneProjectDashboard_16179011454220/Dashboard1.
 
+The files uploaded to zenodo can be found at this link: https://zenodo.org/record/4732435
+
 
 ## Tools and Packages
 
